@@ -1,6 +1,4 @@
-##Coming Soon
-
-/* ## Welcome to my Website
+## Coming Soon
 
 You can use the [editor on GitHub](https://github.com/gpuskaric/homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
