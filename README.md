@@ -1,3 +1,3 @@
 ## Coming Soon
 
-[check out my other page](new-page.md)
+[check out my other page](about-me.md)
