@@ -77,12 +77,12 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Linkedin
+    url: https://linkedin.com/greg.puskaric
+    icon: fab fa-linkedin
   - title: Twitter
     url: https://twitter.com/gpuskaric
     icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/gpuskaric
-    icon: fab fa-instagram
   - title: GitHub
     url: https://github.com/gpuskaric
     icon: fab fa-github-square
