@@ -52,7 +52,7 @@ paginate: 10
 paginate_path: /page:num/
 
 # Search
-search_full_content: false
+search_full_content: true
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
@@ -60,31 +60,31 @@ tag_archive_path: "/tags/#"
 
 # Site Author
 author:
-  name: Michael Rose
+  name: Greg Puskaric
   picture: /images/AJ.png
   email:
-  twitter: mmistakes
+  twitter: gpuskaric
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/gpuskaric
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
+      url: https://instagram.com/gpuskaric
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/gpuskaric
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/mmistakes
+    url: https://twitter.com/gpuskaric
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/mmistakes
+    url: https://instagram.com/gpuskaric
     icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/mmistakes
+    url: https://github.com/gpuskaric
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
@@ -115,6 +115,13 @@ defaults:
       comments: true
       share: true
 
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-data
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
