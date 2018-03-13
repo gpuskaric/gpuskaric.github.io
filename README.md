@@ -8,15 +8,17 @@ New posts go in the `_posts` directory.  To create a new post, create a new file
 
 ### Create a new file
 
-![adding a new file]()
+To create a new file, navigate to the `_posts` directory and click on **Create new file** in GitHub.  
 
-To create a new file, navigate to the `_posts` directory and click on **Create new file** in GitHub.  Name your file following this format:
+![adding a new file](images/create-file.png)
+
+Name your file following this format:
 
 ```
 YYYY-MM-DD-your-posts-name.md
 ```
 
-![naming new file]()
+![naming new file](images/naming-post.png)
 
 After naming your file, you can either start editing it using [markdown]() or you can click the green **Commit changes** button beneath the file editor to add the empty file.
 
