@@ -83,8 +83,9 @@
 }
 
 .site-title {
+  font-family: $serif-title-font;
   margin: 0.5em 0 0;
-  padding: 0;
+  padding: 5px;
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
 
   a {
