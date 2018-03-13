@@ -17,7 +17,7 @@ locale: en-US
 title: Greg Puskaric
 email: gpuskaric@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Greg is an analytics person.
+  Posting regularly from Toronto.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gpuskaric
@@ -31,7 +31,7 @@ remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-feed
 
-logo: "/images/AJ.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/beer.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -61,7 +61,7 @@ tag_archive_path: "/tags/#"
 # Site Author
 author:
   name: Greg Puskaric
-  picture: /images/AJ.png
+  picture: /images/author.png
   email:
   twitter: gpuskaric
   links:

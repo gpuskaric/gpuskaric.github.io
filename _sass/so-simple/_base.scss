@@ -9,7 +9,7 @@ html {
 body {
   background: $background-color;
   color: $text-color;
-  border-top: solid 0.25em $nav-background-color;
+  // border-top: solid 0.25em $nav-background-color;
 }
 
 blockquote,
@@ -105,6 +105,7 @@ a {
   color: $accent-color;
   -webkit-transition: $global-transition;
   transition: $global-transition;
+  text-decoration: none;
 
   &:hover {
     color: shade($accent-color, 25%);
