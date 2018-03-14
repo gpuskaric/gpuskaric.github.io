@@ -49,3 +49,38 @@ All content is written in **[markdown](https://guides.github.com/features/master
 #### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 If you need examples, look back at those sample [posts](https://github.com/mmistakes/jekyll-theme-unit-test/tree/master/_posts) or even look at this readme file directly in GitHub.  It should be self explanatory.
+
+## Editing Structure
+
+The site is essentially a standard static site with HTML and CSS, except for that it uses a lot of templates to build stuff and pull things together.
+
+Essentially what you need to know is that styles are in the `_scss` folder, html layouts are in the `_layouts` directory, and snippets/templates that get pulled into pages are in the `_includes` directory.
+
+Things are named pretty obviously (like head.html is the head element of your site).
+
+### Editing Locally
+
+If you make changes on GitHub and commit to master your changes will be live immediately.  This is annoying when testing site structural changes.  It's possible to instead clone this repository and run it locally to test your changes.
+
+At a high level (google 'cloning a repo')...
+
+* open Terminal (mac) and `cd` into a directory you want
+* run `git clone https://github.com/gpuskaric/gpuskaric.github.io.git`
+* open the folder and make changes in whatever editor you want (I use [atom](https://atom.io/))
+
+Then you have to make your changes, and to preview, you have to use [Jekyll](https://jekyllrb.com/)
+
+To install Jekyll and preview...
+
+* run `gem install jekyll bundler`
+* in your project folder run `bundle exec jekyll serve`
+* view your changes on your local host `http://127.0.0.1:4000/`
+
+To push your changes live to the repo:
+
+* in your project folder run 
+  * `git add .`
+  * `git commit -m "saving changes"`
+  * `git push`
+  
+Troubleshooting this is as easy as googling first and texting me otherwise.
