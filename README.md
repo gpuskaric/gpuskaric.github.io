@@ -20,7 +20,7 @@ YYYY-MM-DD-your-posts-name.md
 
 ![naming new file](images/naming-post.png)
 
-After naming your file, you can either start editing it using [markdown]() or you can click the green **Commit changes** button beneath the file editor to add the empty file.
+After naming your file, you can either start editing it using [markdown](https://guides.github.com/features/mastering-markdown/) or you can click the green **Commit changes** button beneath the file editor to add the empty file.
 
 ### Front matter
 
