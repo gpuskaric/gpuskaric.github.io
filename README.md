@@ -86,3 +86,11 @@ To push your changes live to the repo:
   * `git push`
   
 Troubleshooting this is as easy as googling first and texting me otherwise.
+
+## Standard customizable files
+
+* `_config.yml`
+* `_navigation.yml`
+* `_sass/so-simple/_variables.scss`
+
+All images get added to `images/`
