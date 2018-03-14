@@ -1,4 +1,4 @@
-# [gpuskaric.com]()
+# [gregpuskaric.com](http://gregpuskaric.com/)
 
 Greg's landing page and blog.
 
