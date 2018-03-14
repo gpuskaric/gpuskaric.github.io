@@ -50,6 +50,8 @@ All content is written in **[markdown](https://guides.github.com/features/master
 
 If you need examples, look back at those sample [posts](https://github.com/mmistakes/jekyll-theme-unit-test/tree/master/_posts) or even look at this readme file directly in GitHub.  It should be self explanatory.
 
+Use the **Preview** tab to see your changes when editing in GitHub.
+
 ## Editing Structure
 
 The site is essentially a standard static site with HTML and CSS, except for that it uses a lot of templates to build stuff and pull things together.
