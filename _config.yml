@@ -31,7 +31,7 @@ remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-feed
 
-logo: "/images/beer.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/bourbon.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
