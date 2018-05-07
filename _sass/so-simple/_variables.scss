@@ -45,9 +45,9 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospa
 
 $base-font-family: $sans-serif-font-family !default;
 $headline-font-family: $sans-serif-font-family !default;
-$title-font-family: $serif-font-family !default;
-$description-font-family: $serif-font-family !default;
-$meta-font-family: $serif-font-family !default;
+$title-font-family: $serif-title-font !default;
+$description-font-family: $serif-title-font !default;
+$meta-font-family: $serif-title-font !default;
 
 $page-title-weight: bold !default;
 $entry-title-weight: bold !default;
