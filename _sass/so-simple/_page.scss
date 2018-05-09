@@ -20,8 +20,8 @@
 .page-image {
   position: relative;
   margin-top: (-1 * $site-logo-height) / 2;
-  margin-bottom: 2em;
-  z-index: 1;
+  margin-bottom: -50px;
+  top: -100px;
 
   @include breakpoint($medium) {
     margin-top: (-1.5 * $site-logo-height) / 2;
