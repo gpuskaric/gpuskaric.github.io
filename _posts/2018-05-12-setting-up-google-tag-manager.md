@@ -98,6 +98,6 @@ Just like with verifying GTM, there are a couple tools that you can use to verif
 
 You should follow the same instuctions as above, but this time you want to look for a call to google-analytics.com/r/collect.
 
-![ga call](/images/ga-call.png)
+![ga call](/images/ga-call.PNG)
 
 If you see the call going to Google Analytics, congratulations! You've sucessfully deployed Google Analytics onto your website. You should now be able to see data coming into your Google Analytics account.
