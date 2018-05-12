@@ -5,8 +5,8 @@ For my first blog post I thought it would be helpful to go over how to set up so
 ## What You'll Need
 
 * a website (duh)
-* a free [google analytics] (https://www.google.com/analytics/) account
-* a free [google tag manager] (https://www.google.com/analytics/tag-manager/) account
+* a free [google analytics](https://www.google.com/analytics/) account
+* a free [google tag manager](https://www.google.com/analytics/tag-manager/) account
 
 ## Google Analytics
 
@@ -96,7 +96,7 @@ Once you've saved your tag and gone back to the container overview page you shou
 
 Just like with verifying GTM, there are a couple tools that you can use to verify your GA tag. I tend to prefer the [ObservePoint Debugger](https://chrome.google.com/webstore/detail/observepoint-tagdebugger/daejfbkjipkgidckemjjafiomfeabemo) but to keep this guide simple I will use the Chrome Developer tools that we used to verify GTM.
 
-You should follow the same instuctions as above, but this time you want to look for a call to google-analytics.com/r/collect.
+You should follow the same instuctions as above, but this time you want to look for a call to "google-analytics.com/r/collect".
 
 ![ga call](/images/ga-call.PNG)
 
