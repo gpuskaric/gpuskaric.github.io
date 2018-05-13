@@ -12,7 +12,7 @@ For my first blog post I thought it would be helpful to go over how to set up so
 
 I'm not going to walk through the process of creating an account, but once you have Google Analytics account you will be able to author a "Property". Accounts and Properties form a heirarchy to help your organize your Analytics setup if you have more than one website. If I had three websites, I would still have one account, but I'd have three properties to break out the data at a website level.
 
-The piece of information that we need from Google Analytics to help us set up Google Tag Manage is called the "Tracking ID". This is the unique property ID that we send data to from Google Tag Manager. This can be found in the Admin Panel at the Property level.
+The piece of information that we need from Google Analytics to help us set up Google Tag Manager is called the "Tracking ID". This is the unique property ID that we send data to from Google Tag Manager. This can be found in the Admin Panel at the Property level.
 
 ### Getting the UA Tracking ID
 
