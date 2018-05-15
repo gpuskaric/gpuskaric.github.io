@@ -1,3 +1,13 @@
+---
+title: "Setting Up Google Tag Manager"
+categories:
+  - analytics
+tags:
+  - google analytics
+  - google tag manager
+  - analytics
+---
+
 # Setting Up Google Tag Manager
 
 For my first blog post I thought it would be helpful to go over how to set up some basic Google Tag Manager tracking. Since I am A) in the early stages of setting this website up and B) a web analytics implementation specialist. It would be embarassing if I didn't take this chance to add and document the process for adding GTM to a simple website.
