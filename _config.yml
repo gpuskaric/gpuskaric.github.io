@@ -20,7 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   🇺🇸 posting regularly from 🇳🇱
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gpuskaric
 github_username:  gpuskaric
 feed:
   path: atom.xml
@@ -63,14 +62,7 @@ author:
   name: Greg Puskaric
   picture: /images/author.png
   email:
-  twitter: gpuskaric
   links:
-    - title: Twitter
-      url: https://twitter.com/gpuskaric
-      icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/gregpuskaric
-      icon: fab fa-instagram
     - title: GitHub
       url: https://github.com/gpuskaric
       icon: fab fa-github-square
@@ -80,9 +72,6 @@ footer_links:
   - title: Linkedin
     url: https://www.linkedin.com/in/greg-puskaric-3393794a/
     icon: fab fa-linkedin
-  - title: Twitter
-    url: https://twitter.com/gregpuskaric
-    icon: fab fa-twitter-square
   - title: GitHub
     url: https://github.com/gpuskaric
     icon: fab fa-github-square
